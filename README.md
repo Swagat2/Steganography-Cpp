@@ -8,7 +8,7 @@ It uses Least Significant Bit(LSB) algorithm for Image Steganography.
 
 1. <b>Install Open-CV : </b>
 Make sure that latest version of Open-CV is installed on your machine.
-Refer <a href="https://github.com/jayrambhia/Install-OpenCV">this</a> repository for installation.
+
 
 2. <b>Compile the program : </b>
   ```
@@ -37,5 +37,4 @@ Refer <a href="https://github.com/jayrambhia/Install-OpenCV">this</a> repository
   ```
   The hidden message will be displayed on your console.
 
-### See in Action
-<a href="https://youtu.be/pLOUYwLjG5E"><img src="https://github.com/hitanshu-dhawan/ImageSteganography/blob/master/youtube_icon.png" alt="YouTube Video"  width="80px" /></a>
+
